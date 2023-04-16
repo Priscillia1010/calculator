@@ -1,0 +1,23 @@
+.calculator {
+    background-color: grey;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  button {
+    width: 100px;
+    height: 80px;
+    border-radius: 10px;
+    border: 0px solid #ccc;
+    background-color: whitesmoke;
+    margin: 10px;
+  }
+
+  input {
+    background-color: whitesmoke;
+    width: 100%;
+    height: 80%;
+    border-radius: 10px;
+    border: 0px solid #ccc;
+    margin: 10px;
+  }
